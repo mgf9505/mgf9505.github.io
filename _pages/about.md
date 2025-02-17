@@ -26,15 +26,7 @@ You can also visit my Chinese Academic CV [here](https://homepage.zjut.edu.cn/mg
 
 🕛 News
 ======
-Dec.6, 2024: A paper is accepted by _Applied Intelligence_
-
-Aug.7, 2024: A paper is accepted by _Neurocomputing_
-
-May.12, 2024: A paper is accepted by _IEEE Transactions on Network Science and Engineering_
-
-Apr.21, 2024: A paper is accepted by _Applied Intelligence_
-
-Mar.20, 2024: A paper is accepted by _Neurocomputing_
+Feb.17, 2025: A paper is accepted by _IEEE Transactions on Artificial Intelligenceg_
 
 <br />
 
