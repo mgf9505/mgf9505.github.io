@@ -26,7 +26,7 @@ You can also visit my Chinese Academic CV [here](https://homepage.zjut.edu.cn/mg
 
 🕛 News
 ======
-Feb.17, 2025: A paper is accepted by _IEEE Transactions on Artificial Intelligence_
+March.25, 2025: A paper is currently under minor revision by _IEEE Transactions on Artificial Intelligence_
 
 <br />
 
