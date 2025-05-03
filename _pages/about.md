@@ -32,7 +32,12 @@ Feb.17, 2025: A paper is accepted by _IEEE Transactions on Artificial Intelligen
 
 🕑 Publications
 ======
-
+2025
+------
+* **Gang-Feng Ma**, Meng-Ang Chen, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yujiao Huang. Graph Contrastive Learning for Multibehavior Recommendation. (**IEEE TCSS**).
+* **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yujiao Huang. Similar or Related: Spectral-Based Item Relationship Mining with Graph Convolutional Network for Complementary Recommendation. (**IEEE TAI**).
+* Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou . Reinforcement knowledge graph reasoning based on dual agents and attention mechanism. (**Applied Intelligence**).
+  
 2024
 ------
 * Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou. Reinforcement Knowledge Graph Reasoning based on Dual Agents and Attention Mechanism. (**Applied Intelligence**).
