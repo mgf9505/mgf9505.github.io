@@ -32,6 +32,7 @@ Feb.17, 2025: A paper is accepted by _IEEE Transactions on Artificial Intelligen
 
 🕑 Publications
 ======
+
 2025
 ------
 * **Gang-Feng Ma**, Meng-Ang Chen, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yujiao Huang. Graph Contrastive Learning for Multibehavior Recommendation. (**IEEE TCSS**).
