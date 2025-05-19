@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ZJUT&ZJNU-Homepage"
+# title                    : "ZJUT&ZJNU-Homepage"
 title_separator          : "-"
 name                     : &name "Gang-Feng Ma"
 description              : &description "personal description"
