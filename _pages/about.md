@@ -35,6 +35,8 @@ March.25, 2025: A paper is currently under minor revision by _IEEE Transactions 
 
 2025
 ------
+* Xilin Wen, Xu-Hua Yang*, **Gang-Feng Ma**. ConDiff: Conditional Graph Diffusion Model for Recommendation. (**Information Processing & Management**)
+* 文茜琳, 杨旭华*, **马钢峰**. 基于邻域增强的图自监督推荐. (**计算机学报**)
 * **Gang-Feng Ma**, Meng-Ang Chen, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yujiao Huang. Graph Contrastive Learning for Multibehavior Recommendation. (**IEEE TCSS**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yujiao Huang. Similar or Related: Spectral-Based Item Relationship Mining with Graph Convolutional Network for Complementary Recommendation. (**IEEE TAI**).
 * Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou . Reinforcement knowledge graph reasoning based on dual agents and attention mechanism. (**Applied Intelligence**).
