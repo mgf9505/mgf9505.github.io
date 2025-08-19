@@ -26,7 +26,7 @@ You can also visit my Chinese Academic CV [here](https://homepage.zjut.edu.cn/mg
 
 🕛 News
 ======
-March.25, 2025: A paper is currently under minor revision by _IEEE Transactions on Artificial Intelligence_
+March.25, 2025: A paper is accept by _IEEE Transactions on Artificial Intelligence_
 
 <br />
 
@@ -35,6 +35,7 @@ March.25, 2025: A paper is currently under minor revision by _IEEE Transactions 
 
 2025
 ------
+* **Gang-Feng Ma**, Xu-Hua Yang*, Peng Jiang. Correlation-guided Information Deep Fusion for Multimodal Recommendation. (**IEEE TAI**).
 * Xilin Wen, Xu-Hua Yang*, **Gang-Feng Ma**. ConDiff: Conditional Graph Diffusion Model for Recommendation. (**Information Processing & Management**)
 * 文茜琳, 杨旭华*, **马钢峰**. 基于邻域增强的图自监督推荐. (**计算机学报**)
 * **Gang-Feng Ma**, Meng-Ang Chen, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yujiao Huang. Graph Contrastive Learning for Multibehavior Recommendation. (**IEEE TCSS**).
