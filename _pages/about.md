@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Gang-Feng Ma**
 
 Post-Doctoral Fellow 
 
