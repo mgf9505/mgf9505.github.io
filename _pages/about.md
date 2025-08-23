@@ -34,20 +34,21 @@ August. 19, 2025: A paper is accept by _IEEE Transactions on Artificial Intellig
 
 2025
 ------
-* **Gang-Feng Ma**, Xu-Hua Yang*, Peng Jiang. Correlation-guided Information Deep Fusion for Multimodal Recommendation. (**IEEE TAI**).
+
 * Xilin Wen, Xu-Hua Yang*, **Gang-Feng Ma**. ConDiff: Conditional Graph Diffusion Model for Recommendation. (**Information Processing & Management**)
-* 文茜琳, 杨旭华*, **马钢峰**. 基于邻域增强的图自监督推荐. (**计算机学报**)
 * **Gang-Feng Ma**, Meng-Ang Chen, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yujiao Huang. Graph Contrastive Learning for Multibehavior Recommendation. (**IEEE TCSS**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yujiao Huang. Similar or Related: Spectral-Based Item Relationship Mining with Graph Convolutional Network for Complementary Recommendation. (**IEEE TAI**).
+* **Gang-Feng Ma**, Xu-Hua Yang*, Peng Jiang. Correlation-guided Information Deep Fusion for Multimodal Recommendation. (**IEEE TAI**).
 * Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou . Reinforcement knowledge graph reasoning based on dual agents and attention mechanism. (**Applied Intelligence**).
+* 文茜琳, 杨旭华*, **马钢峰**. 基于邻域增强的图自监督推荐. (**计算机学报**)
   
 2024
 ------
-* Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou. Reinforcement Knowledge Graph Reasoning based on Dual Agents and Attention Mechanism. (**Applied Intelligence**).
-* **Gang-Feng Ma**, Xu-Hua Yang*, Liang-Yu Gao, Ling-Hang Lian. Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation. (**Neurocomputing**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong, Sheng Liu. Robust Preference-Guided based Disentangled Graph Social Recommendation. (**IEEE TNSE**).
+* **Gang-Feng Ma**, Xu-Hua Yang*, Liang-Yu Gao, Ling-Hang Lian. Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation. (**Neurocomputing**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yanbo Zhou, Xin-Li Xu. Robust social recommendation based on contrastive learning and dual-stage graph neural network. (**Neurocomputing**).
 * Xu-Hua Yang*, Wei D, Zhang L, **Gang-Feng Ma**, et al. Task-related network based on meta-learning for few-shot knowledge graph completion. (**Applied Intelligence**).
+* Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou. Reinforcement Knowledge Graph Reasoning based on Dual Agents and Attention Mechanism. (**Applied Intelligence**).
 
 2023
 ------
