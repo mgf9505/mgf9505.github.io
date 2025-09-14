@@ -25,7 +25,7 @@ You can also visit my Chinese Academic CV [here](https://homepage.zjut.edu.cn/mg
 
 🕛 News
 ======
-August. 19, 2025: A paper is accept by _IEEE Transactions on Artificial Intelligence_
+September. 14, 2025: A paper is accept by _Computer Science Review_
 
 <br />
 
