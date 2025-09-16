@@ -34,7 +34,7 @@ September. 14, 2025: A paper is accept by _Computer Science Review_
 
 2026
 ------
-* Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang∗, Yi-Cheng Zhang. Sequential recommender systems: A methodological taxonomy and research frontiers. (**Computer Science Review**)
+* Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang*, Yi-Cheng Zhang. Sequential recommender systems: A methodological taxonomy and research frontiers. (**Computer Science Review**)
 
 2025
 ------
