@@ -32,9 +32,12 @@ September. 14, 2025: A paper is accept by _Computer Science Review_
 🕑 Publications
 ======
 
+2026
+------
+* Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang∗, Yi-Cheng Zhang. Sequential recommender systems: A methodological taxonomy and research frontiers. (**Computer Science Review**)
+
 2025
 ------
-
 * Xilin Wen, Xu-Hua Yang*, **Gang-Feng Ma**. ConDiff: Conditional Graph Diffusion Model for Recommendation. (**Information Processing & Management**)
 * **Gang-Feng Ma**, Meng-Ang Chen, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yujiao Huang. Graph Contrastive Learning for Multibehavior Recommendation. (**IEEE TCSS**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yujiao Huang. Similar or Related: Spectral-Based Item Relationship Mining with Graph Convolutional Network for Complementary Recommendation. (**IEEE TAI**).
