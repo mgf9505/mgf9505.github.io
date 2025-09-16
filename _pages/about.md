@@ -42,7 +42,7 @@ September. 14, 2025: A paper is accept by _Computer Science Review_
 * **Gang-Feng Ma**, Meng-Ang Chen, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yujiao Huang. Graph Contrastive Learning for Multibehavior Recommendation. (**IEEE TCSS**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yujiao Huang. Similar or Related: Spectral-Based Item Relationship Mining with Graph Convolutional Network for Complementary Recommendation. (**IEEE TAI**).
 * **Gang-Feng Ma**, Xu-Hua Yang*, Peng Jiang. Correlation-guided Information Deep Fusion for Multimodal Recommendation. (**IEEE TAI**).
-* Dong Wei*, Hongxiang Hu, **Gang-Feng Ma**. Part-Wise Graph Fourier Learning for Skeleton-Based Continuous Sign Language Recognition
+* Dong Wei*, Hongxiang Hu, **Gang-Feng Ma**. Part-Wise Graph Fourier Learning for Skeleton-Based Continuous Sign Language Recognition. (**Journal of Imaging**)
 * 文茜琳, 杨旭华*, **马钢峰**. 基于邻域增强的图自监督推荐. (**计算机学报**)
   
 2024
