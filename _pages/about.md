@@ -22,7 +22,7 @@ You can also visit my Chinese Academic CV [here](https://mypage.zjnu.edu.cn/2025
 
 🕛 News
 ======
-September. 14, 2025: A paper is accept by _Computer Science Review_
+Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 
 <br />
 
@@ -31,6 +31,7 @@ September. 14, 2025: A paper is accept by _Computer Science Review_
 
 2026
 ------
+* **Gang-Feng Ma**, Xu-Hua Yang*, Xilin Wen, Yanbo Zhou, Haixia Long, Wei Huang. Contrastive Deep Fusion-based Diffusion Multi-view Drug Recommendation. (**TCSS**)
 * Weiyi Ye, Xu-Hua Yang*, Dong Wei, **Gang-Feng Ma**, Yujiao Huang, Xiao-Xin Li. HyperSign: Saliency-Aware Spatial Graphs and Temporal Hypergraphs for Continuous Sign Language Recognition. (**AAAI**)
 * Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang*, Yi-Cheng Zhang. Sequential recommender systems: A methodological taxonomy and research frontiers. (**Computer Science Review**)
 * Xilin Wen, Xu-Hua Yang*, **Gang-Feng Ma**. ConDiff: Conditional Graph Diffusion Model for Recommendation. (**Information Processing & Management**)
