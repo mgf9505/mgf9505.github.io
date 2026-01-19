@@ -32,7 +32,7 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 2026
 ------
 * **Gang-Feng Ma**, Xu-Hua Yang*, Xilin Wen, Yanbo Zhou, Haixia Long, Wei Huang. Contrastive Deep Fusion-based Diffusion Multi-view Drug Recommendation. (**TCSS**)
-* * Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang*, Yi-Cheng Zhang. Sequential recommender systems: A methodological taxonomy and research frontiers. (**Computer Science Review**)
+* Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang*, Yi-Cheng Zhang. Sequential recommender systems: A methodological taxonomy and research frontiers. (**Computer Science Review**)
 * Weiyi Ye, Xu-Hua Yang*, Dong Wei, **Gang-Feng Ma**, Yujiao Huang, Xiao-Xin Li. HyperSign: Saliency-Aware Spatial Graphs and Temporal Hypergraphs for Continuous Sign Language Recognition. (**AAAI**)
 * Xilin Wen, Xu-Hua Yang*, **Gang-Feng Ma**. ConDiff: Conditional Graph Diffusion Model for Recommendation. (**Information Processing & Management**)
 * Weiyi Ye, Xu-Hua Yang*, **Gang-Feng Ma**, Dong Wei, Sheng Liu, Yuan Feng. SAKA: Spatially-adaptive and Keyframe-anchored Graph Network for Continuous Sign Language Recognition. (**ICASSP**)
