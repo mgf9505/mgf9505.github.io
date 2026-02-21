@@ -14,7 +14,7 @@ School of Computer Science and Technology
 
 Email: [mgf9505@gmail.com](mailto:mgf9505@gmail.com) and [gf_ma@zjut.edu.cn](mailto:gf_ma@zjut.edu.cn) 
 
-Currently in Professor [Changjun Zhou](https://mypage.zjnu.edu.cn/20194459/zh_CN/index.htm)'s team, the Vice Dean of the School of Computer Science and Technology at Zhejiang Normal University. My master‘s/doctoral/postdoctoral supervisor is Professor [Xu-Hua Yang](https://homepage.zjut.edu.cn/yxh2/), the director of the Institute of Intelligent Computing at Zhejiang University of Technology. My research intersts include Graph Neural Network, Recommendation Systems, and Knowledge Graph. I have over 10 publications appeared in several journals and conferences such as TNSE, TCAS-II, DMKD, Neurocomputing, TCSS, and Information Sciences.
+Currently in Professor [Changjun Zhou](https://mypage.zjnu.edu.cn/20194459/zh_CN/index.htm)'s team, the Vice Dean of the School of Computer Science and Technology at Zhejiang Normal University. My master‘s/doctoral/postdoctoral supervisor is Professor [Xu-Hua Yang](https://homepage.zjut.edu.cn/yxh2/), the director of the Institute of Intelligent Computing at Zhejiang University of Technology. My research intersts include Graph Neural Network, Recommendation Systems, and Knowledge Graph. I have over 20 publications appeared in several journals and conferences such as IEEE TNSE, IP&M, KBS, IEEE TCAS-II, DMKD, Neurocomputing, IEEE TCSS, IEEE TAI and Information Sciences.
 
 You can also visit my Chinese Academic CV [here](https://mypage.zjnu.edu.cn/20255806/zh_CN/index.htm).
 
