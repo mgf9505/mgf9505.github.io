@@ -40,12 +40,12 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
   
   Xu-Hua Yang, Zhen-Lei Huang, **Gang-Feng Ma***, Jia-Ning Xu.
   
-  _Knowledge-based Syatems_ (**KBS**)
+  _Knowledge-based Syatems_ (**KBS**).
 * Sequential recommender systems: A methodological taxonomy and research frontiers.
   
   Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang*, Yi-Cheng Zhang.
   
-  _Computer Science Review_
+  _Computer Science Review_ (**Computer Science Review**).
 * Contrastive Deep Fusion-based Diffusion Multi-view Drug Recommendation.
   
   **Gang-Feng Ma**, Xu-Hua Yang*, Xilin Wen, Yanbo Zhou, Haixia Long, Wei Huang.
@@ -82,8 +82,8 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 * Similar or Related: Spectral-Based Item Relationship Mining with Graph Convolutional Network for Complementary Recommendation.
   
   **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yujiao Huang.
-  
- _IEEE Transactions on Artificial Intelligence_ (**IEEE TAI**).
+
+  _IEEE Transactions on Artificial Intelligence_ (**IEEE TAI**).
 * Correlation-guided Information Deep Fusion for Multimodal Recommendation.
   
   **Gang-Feng Ma**, Xu-Hua Yang*, Peng Jiang.
@@ -93,12 +93,12 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
   
   文茜琳, 杨旭华*, **马钢峰**.
   
-   _计算机学报_
+   _计算机学报_ (**计算机学报**).
 * Part-Wise Graph Fourier Learning for Skeleton-Based Continuous Sign Language Recognition.
 
   Dong Wei*, Hongxiang Hu, **Gang-Feng Ma**.
   
-  _Journal of Imaging_
+  _Journal of Imaging_ (**Journal of Imaging**).
 * Reinforcement Knowledge Graph Reasoning based on Dual Agents and Attention Mechanism.
   
   Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou.
@@ -116,12 +116,12 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 
   **Gang-Feng Ma**, Xu-Hua Yang*, Liang-Yu Gao, Ling-Hang Lian.
 
-  _Neurocomputing_.
+  _Neurocomputing_ (**Neurocomputing**).
 * Robust social recommendation based on contrastive learning and dual-stage graph neural network.
 
   **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yanbo Zhou, Xin-Li Xu.
 
-  _Neurocomputing_.
+  _Neurocomputing_ (**Neurocomputing**).
 * Network embedding based on high-degree penalty and adaptive negative sampling.
 
   **Gang-Feng Ma**, Xu-Hua Yang*, Wei Ye, Xin-Li Xu, and Lei Ye.
@@ -140,7 +140,7 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 
   **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Lei Ye.
 
-  _Information Sciences_.
+  _Information Sciences_ (**Information Sciences**).
 * Community Detection Based on Markov Similarity Enhancement.
 
   Xu-Hua Yang*, **Gang-Feng Ma**, Xiang-Yu Zeng, Yuchao Pang, Yanbo Zhou, Yu-Di Zhang, Lei Ye.
@@ -159,7 +159,7 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 * Graph neural networks for preference social recommendation.
 
   **Gang-Feng Ma**, Xu-Hua Yang*, Yue Tong, Yanbo Zhou.
-  _Peerj Computer Science_.
+  _Peerj Computer Science_ (**Peerj Computer Science**).
 
 Before 2023
 ------
