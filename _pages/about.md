@@ -31,6 +31,7 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 
 2026
 ------
+* **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang, Yanbo Zhou, Wei Huang, Xiao-Xin Li, Peng Jiang. Robust drug recommendation based on patient status awareness and unbiased prediction (**Information Processing & Management**)
 * Xu-Hua Yang, Zhen-Lei Huang, **Gang-Feng Ma***, Jia-Ning Xu. Dual-Track Diffusion: Structure-Guided High Fidelity Denoising for Social Recommendation. (**KBS**)
 * Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang*, Yi-Cheng Zhang. Sequential recommender systems: A methodological taxonomy and research frontiers. (**Computer Science Review**)
 * **Gang-Feng Ma**, Xu-Hua Yang*, Xilin Wen, Yanbo Zhou, Haixia Long, Wei Huang. Contrastive Deep Fusion-based Diffusion Multi-view Drug Recommendation. (**TCSS**)
