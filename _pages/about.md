@@ -32,38 +32,76 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 2026
 ------
 * Robust drug recommendation based on patient status awareness and unbiased prediction.
+  
   **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang, Yanbo Zhou, Wei Huang, Xiao-Xin Li, Peng Jiang.
+  
   _Information Processing & Management_ (**IP&M**).
 * Dual-Track Diffusion: Structure-Guided High Fidelity Denoising for Social Recommendation.
+  
   Xu-Hua Yang, Zhen-Lei Huang, **Gang-Feng Ma***, Jia-Ning Xu.
+  
   _Knowledge-based Syatems_ (**KBS**)
 * Sequential recommender systems: A methodological taxonomy and research frontiers.
+  
   Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang*, Yi-Cheng Zhang.
+  
   _Computer Science Review_
 * Contrastive Deep Fusion-based Diffusion Multi-view Drug Recommendation.
+  
   **Gang-Feng Ma**, Xu-Hua Yang*, Xilin Wen, Yanbo Zhou, Haixia Long, Wei Huang.
-  _IEEE Transactions on Computational Social Systems_ (**TCSS**)
+  
+  _IEEE Transactions on Computational Social Systems_ (**TCSS**).
 * ConDiff: Conditional Graph Diffusion Model for Recommendation.
+  
   Xilin Wen, Xu-Hua Yang*, **Gang-Feng Ma**.
+  
   _Information Processing & Management_ (**IP&M**).
 * HyperSign: Saliency-Aware Spatial Graphs and Temporal Hypergraphs for Continuous Sign Language Recognition.
+  
   Weiyi Ye, Xu-Hua Yang*, Dong Wei, **Gang-Feng Ma**, Yujiao Huang, Xiao-Xin Li.
+  
   _AAAI Conference on Artificial Intelligence_ (**AAAI**)
 * SignDAGC: Dynamic Axial Graph Structure for Continuous Sign Language Recognition and Translation.
+  
   Hong-Xiang Hu, Dong Wei, Xu-Hua Yang*, **Gang-Feng Ma**, Sheng Liu, Yuan Feng, Yong Wang.
+  
   _Pattern Recognition_ (**PR**)
 * SAKA: Spatially-adaptive and Keyframe-anchored Graph Network for Continuous Sign Language Recognition.
+  
   Weiyi Ye, Xu-Hua Yang*, **Gang-Feng Ma**, Dong Wei, Sheng Liu, Yuan Feng.
+  
   _International Conference on Acoustics, Speech, and Signal Processing_ (**ICASSP**)
 
 2025
 ------
-* **Gang-Feng Ma**, Meng-Ang Chen, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yujiao Huang. Graph Contrastive Learning for Multibehavior Recommendation. (**IEEE TCSS**).
-* **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yujiao Huang. Similar or Related: Spectral-Based Item Relationship Mining with Graph Convolutional Network for Complementary Recommendation. (**IEEE TAI**).
-* **Gang-Feng Ma**, Xu-Hua Yang*, Peng Jiang. Correlation-guided Information Deep Fusion for Multimodal Recommendation. (**IEEE TAI**).
-* 文茜琳, 杨旭华*, **马钢峰**. 基于邻域增强的图自监督推荐. (**计算机学报**)
-* Dong Wei*, Hongxiang Hu, **Gang-Feng Ma**. Part-Wise Graph Fourier Learning for Skeleton-Based Continuous Sign Language Recognition. (**Journal of Imaging**)
-* Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou. Reinforcement Knowledge Graph Reasoning based on Dual Agents and Attention Mechanism. (**Applied Intelligence**).
+* Graph Contrastive Learning for Multibehavior Recommendation.
+
+  **Gang-Feng Ma**, Meng-Ang Chen, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yujiao Huang.
+  
+  _IEEE Transactions on Computational Social Systems_ (**TCSS**).
+* Similar or Related: Spectral-Based Item Relationship Mining with Graph Convolutional Network for Complementary Recommendation.
+  
+  **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yujiao Huang.
+  
+ _IEEE Transactions on Artificial Intelligence_ (**IEEE TAI**).
+* Correlation-guided Information Deep Fusion for Multimodal Recommendation.
+  
+  **Gang-Feng Ma**, Xu-Hua Yang*, Peng Jiang.
+  
+  _IEEE Transactions on Artificial Intelligence_ (**IEEE TAI**).
+* 基于邻域增强的图自监督推荐.
+  
+  文茜琳, 杨旭华*, **马钢峰**.
+  
+   _计算机学报_
+* Part-Wise Graph Fourier Learning for Skeleton-Based Continuous Sign Language Recognition.
+
+  Dong Wei*, Hongxiang Hu, **Gang-Feng Ma**.
+  
+  _Journal of Imaging_
+* Reinforcement Knowledge Graph Reasoning based on Dual Agents and Attention Mechanism.
+  Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou.
+  _Applied Intelligence_ (**APIN**).
   
 2024
 ------
