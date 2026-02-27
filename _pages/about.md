@@ -83,12 +83,12 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
   
   **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yujiao Huang.
 
-  _IEEE Transactions on Artificial Intelligence_ (**IEEE TAI**).
+  _IEEE Transactions on Artificial Intelligence_ (**TAI**).
 * Correlation-guided Information Deep Fusion for Multimodal Recommendation.
   
   **Gang-Feng Ma**, Xu-Hua Yang*, Peng Jiang.
   
-  _IEEE Transactions on Artificial Intelligence_ (**IEEE TAI**).
+  _IEEE Transactions on Artificial Intelligence_ (**TAI**).
 * 基于邻域增强的图自监督推荐.
   
   文茜琳, 杨旭华*, **马钢峰**.
@@ -111,7 +111,7 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 
   **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong, Sheng Liu.
 
-  _IEEE Transactions on Network Science and Engineering_ (**IEEE TNSE**).
+  _IEEE Transactions on Network Science and Engineering_ (**TNSE**).
 * Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation.
 
   **Gang-Feng Ma**, Xu-Hua Yang*, Liang-Yu Gao, Ling-Hang Lian.
@@ -145,7 +145,7 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 
   Xu-Hua Yang*, **Gang-Feng Ma**, Xiang-Yu Zeng, Yuchao Pang, Yanbo Zhou, Yu-Di Zhang, Lei Ye.
 
-  _IEEE Transactions on Circuits and Systems Part II: Express Briefs_ (**IEEE TCAS-II**).
+  _IEEE Transactions on Circuits and Systems Part II: Express Briefs_ (**TCAS-II**).
 * Knowledge graph embedding and completion based on entity community and local importance.
 
   Xu-Hua Yang*, **Gang-Feng Ma**, Xin Jin, Hai-Xia Long, Jie Xiao, and Lei Ye.
@@ -159,6 +159,7 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
 * Graph neural networks for preference social recommendation.
 
   **Gang-Feng Ma**, Xu-Hua Yang*, Yue Tong, Yanbo Zhou.
+  
   _Peerj Computer Science_ (**Peerj Computer Science**).
 
 Before 2023
