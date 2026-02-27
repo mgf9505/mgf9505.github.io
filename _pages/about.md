@@ -100,29 +100,74 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
   
   _Journal of Imaging_
 * Reinforcement Knowledge Graph Reasoning based on Dual Agents and Attention Mechanism.
+  
   Xu-Hua Yang*, Tao Wang, Ji-Song Gan, Liang-Yu Gao, **Gang-Feng Ma**, Yan-Bo Zhou.
+  
   _Applied Intelligence_ (**APIN**).
   
 2024
 ------
-* **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong, Sheng Liu. Robust Preference-Guided based Disentangled Graph Social Recommendation. (**IEEE TNSE**).
-* **Gang-Feng Ma**, Xu-Hua Yang*, Liang-Yu Gao, Ling-Hang Lian. Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation. (**Neurocomputing**).
-* **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yanbo Zhou, Xin-Li Xu. Robust social recommendation based on contrastive learning and dual-stage graph neural network. (**Neurocomputing**).
-* **Gang-Feng Ma**, Xu-Hua Yang*, Wei Ye, Xin-Li Xu, and Lei Ye. Network embedding based on high-degree penalty and adaptive negative sampling. (**DMKD**).
-* Xu-Hua Yang*, Wei D, Zhang L, **Gang-Feng Ma**, et al. Task-related network based on meta-learning for few-shot knowledge graph completion. (**Applied Intelligence**).
+* Robust Preference-Guided based Disentangled Graph Social Recommendation.
+
+  **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Haixia Long, Wei Huang, Weihua Gong, Sheng Liu.
+
+  _IEEE Transactions on Network Science and Engineering_ (**IEEE TNSE**).
+* Adaptive Denoising Graph Contrastive Learning with Memory Graph Attention for Recommendation.
+
+  **Gang-Feng Ma**, Xu-Hua Yang*, Liang-Yu Gao, Ling-Hang Lian.
+
+  _Neurocomputing_.
+* Robust social recommendation based on contrastive learning and dual-stage graph neural network.
+
+  **Gang-Feng Ma**, Xu-Hua Yang*, Haixia Long, Yanbo Zhou, Xin-Li Xu.
+
+  _Neurocomputing_.
+* Network embedding based on high-degree penalty and adaptive negative sampling.
+
+  **Gang-Feng Ma**, Xu-Hua Yang*, Wei Ye, Xin-Li Xu, and Lei Ye.
+
+  _Data Mining and Knowledge Discovery_ (**DMKD**).
+* Task-related network based on meta-learning for few-shot knowledge graph completion.
+
+  Xu-Hua Yang*, Wei D, Zhang L, **Gang-Feng Ma**, Xin-Li Xu, Hai-Xia Long..
+
+  _Applied Intelligence_ (**APIN**).
 
 
 2023
 ------
-* **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Lei Ye. Enhanced contrastive representation in network. (**Information Sciences**).
-* Xu-Hua Yang*, **Gang-Feng Ma**, Xiang-Yu Zeng, Yuchao Pang, Yanbo Zhou, Yu-Di Zhang, Lei Ye. Community Detection Based on Markov Similarity Enhancement. (**IEEE TCAS-II**).
-* Xu-Hua Yang*, **Gang-Feng Ma**, Xin Jin, Hai-Xia Long, Jie Xiao, and Lei Ye. Knowledge graph embedding and completion based on entity community and local importance. (**Applied Intelligence**).
-* Xu-Hua Yang*, **Gang-Feng Ma**, Fang-Nan Ma, Lei Ye, Yu-Di Zhang. Attribute network joint embedding based on global attention. (**Pattern Recognition Letters**).
-* **Gang-Feng Ma**, Xu-Hua Yang*, Yue Tong, Yanbo Zhou. Graph neural networks for preference social recommendation. (**Peerj Computer Science**).
+* Enhanced contrastive representation in network.
+
+  **Gang-Feng Ma**, Xu-Hua Yang*, Yanbo Zhou, Lei Ye.
+
+  _Information Sciences_.
+* Community Detection Based on Markov Similarity Enhancement.
+
+  Xu-Hua Yang*, **Gang-Feng Ma**, Xiang-Yu Zeng, Yuchao Pang, Yanbo Zhou, Yu-Di Zhang, Lei Ye.
+
+  _IEEE Transactions on Circuits and Systems Part II: Express Briefs_ (**IEEE TCAS-II**).
+* Knowledge graph embedding and completion based on entity community and local importance.
+
+  Xu-Hua Yang*, **Gang-Feng Ma**, Xin Jin, Hai-Xia Long, Jie Xiao, and Lei Ye.
+
+  _Applied Intelligence_ (**APIN**).
+* Attribute network joint embedding based on global attention.
+
+  Xu-Hua Yang*, **Gang-Feng Ma**, Fang-Nan Ma, Lei Ye, Yu-Di Zhang.
+  
+  _Pattern Recognition Letters_ (**PRL**).
+* Graph neural networks for preference social recommendation.
+
+  **Gang-Feng Ma**, Xu-Hua Yang*, Yue Tong, Yanbo Zhou.
+  _Peerj Computer Science_.
 
 Before 2023
 ------
-* **Gang-Feng Ma**, Xu-Hua Yang*, Lei Ye, Yu-Jiao Huang, and Peng Jiang. Graph Convolutional Network Based on Higher-Order Neighborhood Aggregation. (**ICONIP**)
+* Graph Convolutional Network Based on Higher-Order Neighborhood Aggregation.
+
+  **Gang-Feng Ma**, Xu-Hua Yang*, Lei Ye, Yu-Jiao Huang, and Peng Jiang.
+
+  _International Conference on Neural Information Processing_ (**ICONIP**)
 
 <br />
 
