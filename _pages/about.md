@@ -40,7 +40,7 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
   
   Xu-Hua Yang, Zhen-Lei Huang, **Gang-Feng Ma***, Jia-Ning Xu.
   
-  _Knowledge-based Syatems_ (**KBS**).
+  _Knowledge-based Systems_ (**KBS**).
 * Sequential recommender systems: A methodological taxonomy and research frontiers.
   
   Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang*, Yi-Cheng Zhang.
