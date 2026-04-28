@@ -22,7 +22,7 @@ You can also visit my Chinese Academic CV [here](https://mypage.zjnu.edu.cn/2025
 
 🕛 News
 ======
-Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
+
 
 <br />
 
