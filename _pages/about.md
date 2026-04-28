@@ -46,6 +46,11 @@ Nov. 27, 2025: A paper is in major revised by _Pattern Recognition_
   Yanbo Zhou, **Gang-Feng Ma**, Xilin Wen, Xu-Hua Yang*, Yi-Cheng Zhang.
   
   _Computer Science Review_ (**Computer Science Review**).
+* Social Influence-weighted User Preference for Recommendation Systems.
+
+  **Gang-Feng Ma**, Xu-Hua Yang*, Xilin Wen, Haixia Long, Yanbo Zhou.
+
+  _Physica A: Statistical Mechanics and its Applications_ (**Physica a**)  
 * Contrastive Deep Fusion-based Diffusion Multi-view Drug Recommendation.
   
   **Gang-Feng Ma**, Xu-Hua Yang*, Xilin Wen, Yanbo Zhou, Haixia Long, Wei Huang.
