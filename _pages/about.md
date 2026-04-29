@@ -76,6 +76,11 @@ You can also visit my Chinese Academic CV [here](https://mypage.zjnu.edu.cn/2025
   Weiyi Ye, Xu-Hua Yang*, **Gang-Feng Ma**, Dong Wei, Sheng Liu, Yuan Feng.
   
   _International Conference on Acoustics, Speech, and Signal Processing_ (**ICASSP**)
+* Knowledge-Aware Prompt-Tuning for Integrated Conversational Recommender System.
+
+  Xu-Hua Yang*, Ming-Liu Wu, Hang Luo, Shi-Xing Zhou, **Gang-Feng Ma**, Peng Jiang*.
+
+  _IEEE Transactions on Computational Social Systems_ (**TCSS**).
 
 2025
 ------
